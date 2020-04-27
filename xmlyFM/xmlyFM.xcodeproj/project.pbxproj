@@ -149,7 +149,6 @@
 		169B23FD224E20C8001BCB96 /* LBFMClassifySubContentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 169B23FC224E20C8001BCB96 /* LBFMClassifySubContentController.swift */; };
 		169B23FF224E20D7001BCB96 /* LBFMClassifySubRecommendController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 169B23FE224E20D7001BCB96 /* LBFMClassifySubRecommendController.swift */; };
 		169B2401224E2D1E001BCB96 /* LBFMClassifySubVerticalCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 169B2400224E2D1E001BCB96 /* LBFMClassifySubVerticalCell.swift */; };
-		16DFEE2C227E3457009F2239 /* 309769.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 16DFEE2B227E3457009F2239 /* 309769.mp3 */; };
 		16F48B16223FFCAE007CE601 /* LBFMNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F48B15223FFCAE007CE601 /* LBFMNavigationController.swift */; };
 		16F48B18223FFDED007CE601 /* LBFMBasicContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F48B17223FFDED007CE601 /* LBFMBasicContentView.swift */; };
 		16F48B1A22407392007CE601 /* LBFMBouncesContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F48B1922407392007CE601 /* LBFMBouncesContentView.swift */; };
@@ -355,7 +354,6 @@
 		169B23FC224E20C8001BCB96 /* LBFMClassifySubContentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBFMClassifySubContentController.swift; sourceTree = "<group>"; };
 		169B23FE224E20D7001BCB96 /* LBFMClassifySubRecommendController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBFMClassifySubRecommendController.swift; sourceTree = "<group>"; };
 		169B2400224E2D1E001BCB96 /* LBFMClassifySubVerticalCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBFMClassifySubVerticalCell.swift; sourceTree = "<group>"; };
-		16DFEE2B227E3457009F2239 /* 309769.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 309769.mp3; sourceTree = "<group>"; };
 		16F48B15223FFCAE007CE601 /* LBFMNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBFMNavigationController.swift; sourceTree = "<group>"; };
 		16F48B17223FFDED007CE601 /* LBFMBasicContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBFMBasicContentView.swift; sourceTree = "<group>"; };
 		16F48B1922407392007CE601 /* LBFMBouncesContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LBFMBouncesContentView.swift; sourceTree = "<group>"; };
@@ -576,7 +574,6 @@
 				164A5C73223FF4F000E3F76F /* Assets.xcassets */,
 				164A5C75223FF4F000E3F76F /* LaunchScreen.storyboard */,
 				164A5C78223FF4F000E3F76F /* Info.plist */,
-				16DFEE2B227E3457009F2239 /* 309769.mp3 */,
 			);
 			path = xmlyFM;
 			sourceTree = "<group>";
@@ -1905,7 +1902,6 @@
 				164A5C77223FF4F000E3F76F /* LaunchScreen.storyboard in Resources */,
 				16FA8703229A99FD0034D8BF /* LBFMRecommendAPI.json in Resources */,
 				16F48B5B224111DC007CE601 /* listenRecommend.json in Resources */,
-				16DFEE2C227E3457009F2239 /* 309769.mp3 in Resources */,
 				164A5C74223FF4F000E3F76F /* Assets.xcassets in Resources */,
 				164A5C72223FF4EF00E3F76F /* Main.storyboard in Resources */,
 				160FB95422423FD10096A933 /* FindAttention.json in Resources */,
