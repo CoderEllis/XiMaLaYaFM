@@ -1,0 +1,6 @@
+framework module Pods_xmlyFM {
+  umbrella header "Pods-xmlyFM-umbrella.h"
+
+  export *
+  module * { export * }
+}

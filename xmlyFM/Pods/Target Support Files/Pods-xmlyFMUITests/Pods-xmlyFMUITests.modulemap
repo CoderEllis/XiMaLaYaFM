@@ -1,0 +1,6 @@
+framework module Pods_xmlyFMUITests {
+  umbrella header "Pods-xmlyFMUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
